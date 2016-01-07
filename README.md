@@ -1,6 +1,6 @@
 #Xamarin C# port of WaitingDots
 
-![Loading animation](https://github.com/blocke79/WaitingDots.Xamarin/dotsLoadingAnimation.gif)
+![Loading animation](https://github.com/blocke79/WaitingDots.Xamarin/screenshot.gif)
 
 Ported from https://github.com/tajchert/WaitingDots
 
